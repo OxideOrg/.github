@@ -22,7 +22,7 @@ We create free and open-source solutions that simplify the work developers do ev
 ## **Get Involved** 🤝
 We believe in the power of community. Want to contribute to **Oxide** or have a great idea for a new tool? Check out our repositories, submit pull requests, and join the conversation!
 
-- Explore our [projects](https://github.com/oxide-org)
+- Explore our [projects](https://github.com/orgs/OxideOrg/repositories)
 - Open an issue to suggest improvements or features
 - Join our discussions and collaborate
 
