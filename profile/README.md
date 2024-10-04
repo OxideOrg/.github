@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="10%">
   </a>
   
-  <a href="" target="_blank">
+  <a href="https://github.com/sponsors/fnabinash" target="_blank">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" width="10%">
   </a>
 </p>
