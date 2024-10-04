@@ -1,8 +1,6 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_log_no_bg.png" width="10%"></a></p>
+<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://github.com/OxideOrg/.github/blob/main/images/ooxide_banner.png"></a></p>
 
 <h1 align="center">Oxide Org.</h1>
-
-<h2 align="center">Developing for developers.</h2>
 
 <p align="center">
   <a href="https://x.com/OrgOxide61959" target="_blank">
