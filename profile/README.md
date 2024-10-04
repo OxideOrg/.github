@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="10%">
   </a>
 
-  <a href="" target="_blank">
+  <a href="https://dev.to/oxideorg" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="10%">
   </a>
   
