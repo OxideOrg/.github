@@ -29,5 +29,6 @@ We believe in the power of community. Want to contribute to **Oxide** or have a 
 ## **Stay Connected**
 - Follow us on [Twitter](https://twitter.com/oxide-dev) for updates
 - Join our [Discord](https://discord.gg/oxide-dev) community
+- Learn more about our latest projects, updates, and tutorials on our [Blog](https://dev.to/oxideorg).
 
 Together, let's build tools that make developers' lives easier! 💡
