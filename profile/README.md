@@ -1,4 +1,4 @@
-# Welcome to **Oxide** 🚀
+# Welcome to **Oxide Org.** 🚀
 
 **Oxide** is an open-source organization dedicated to building powerful, easy-to-use tools that help developers work smarter, faster, and with less effort. We focus on creating tools that enhance your coding experience, all made with Rust to ensure efficiency and performance.
 
