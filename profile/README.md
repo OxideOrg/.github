@@ -1,4 +1,4 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_log_no_bg.png" width="15%"></a></p>
+<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_log_no_bg.png" width="10%"></a></p>
 
 <h1 align="center">Oxide Org.</h1>
 
@@ -32,7 +32,7 @@
 
 
 ## **Get Involved** 🤝
-We believe in the power of community. Want to contribute to **Oxide** or have a great idea for a new tool? Check out our repositories, submit pull requests, and join the conversation!
+Want to contribute to **Oxide** or have a great idea for a new tool?
 
 - Explore our [projects](https://github.com/orgs/OxideOrg/repositories)
 - Open an issue to suggest improvements or features
