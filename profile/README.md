@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/OrgOxide-000000?style=for-the-badge&logo=x&logoColor=white" width="10%">
   </a>
   
-  <a href="" target="_blank">
+  <a href="https://discord.gg/yYZTWsyxwW" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="10%">
   </a>
 
