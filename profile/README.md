@@ -5,7 +5,7 @@
 <h2 align="center">Developing for developers.</h2>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://x.com/OrgOxide61959" target="_blank">
     <img src="https://img.shields.io/badge/OrgOxide-000000?style=for-the-badge&logo=x&logoColor=white" width="10%">
   </a>
   
