@@ -1,6 +1,28 @@
-# Welcome to **Oxide Org.** 🚀
+<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_log_no_bg.png" width="20%"></a></p>
+
+<h1 align="center">Oxide Org.</h1>
+
+<h2 align="center">Developing for developers.</h2>
 
 **Oxide** is an open-source organization dedicated to building powerful, easy-to-use tools that help developers work smarter, faster, and with less effort. We focus on creating tools that enhance your coding experience, all made with Rust to ensure efficiency and performance.
+
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/OrgOxide-000000?style=for-the-badge&logo=x&logoColor=white" width="10%">
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="10%">
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="10%">
+  </a>
+  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" width="10%">
+  </a>
+</p>
 
 ## **Our Mission**
 We create free and open-source solutions that simplify the work developers do every day. **Oxide** strives to provide tools that:
@@ -25,10 +47,5 @@ We believe in the power of community. Want to contribute to **Oxide** or have a 
 - Explore our [projects](https://github.com/orgs/OxideOrg/repositories)
 - Open an issue to suggest improvements or features
 - Join our discussions and collaborate
-
-## **Stay Connected**
-- Follow us on [Twitter](https://twitter.com/oxide-dev) for updates
-- Join our [Discord](https://discord.gg/oxide-dev) community
-- Learn more about our latest projects, updates, and tutorials on our [Blog](https://dev.to/oxideorg).
 
 Together, let's build tools that make developers' lives easier! 💡
