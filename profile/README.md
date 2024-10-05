@@ -36,4 +36,4 @@ Want to contribute to **Oxide** or have a great idea for a new tool?
 - Open an issue to suggest improvements or features
 - Join our discussions and collaborate
 
-Together, let's build tools that make developers' lives easier! 💡
+> ### **Together, let's build tools that make developers' lives easier! 💡**
