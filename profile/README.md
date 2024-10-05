@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://x.com/OrgOxide61959" target="_blank">
-    <img src="https://img.shields.io/badge/OrgOxide-000000?style=for-the-badge&logo=x&logoColor=white" width="10%">
+    <img src="https://img.shields.io/badge/OrgOxide-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   
   <a href="https://discord.gg/yYZTWsyxwW" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="10%">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
   <a href="https://dev.to/oxideorg" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" width="10%">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>
   
   <a href="https://github.com/sponsors/fnabinash" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" width="10%">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
   </a>
 </p>
 
