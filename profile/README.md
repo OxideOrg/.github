@@ -1,4 +1,4 @@
-<p align="center"><a href="https://iosf.in/" target="_blank"><img src="https://github.com/OxideOrg/.github/blob/main/images/ooxide_banner.png"></a></p>
+<p align="center"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_github_readme_banner.png"></p>
 
 <h1 align="center">Oxide Org.</h1>
 
