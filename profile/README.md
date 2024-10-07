@@ -3,8 +3,8 @@
 <h1 align="center">Oxide Org.</h1>
 
 <p align="center">
-  <a href="https://x.com/OrgOxide61959" target="_blank">
-    <img src="https://img.shields.io/badge/OrgOxide-000000?style=for-the-badge&logo=x&logoColor=white">
+  <a href="https://x.com/oxide_org" target="_blank">
+    <img src="https://img.shields.io/badge/OxideOrg-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   
   <a href="https://discord.gg/yYZTWsyxwW" target="_blank">
