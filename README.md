@@ -64,22 +64,22 @@ Found a bug? Help us squash it! Report issues in the [Bug Reports](https://githu
 Built something amazing using our tools? Share it in the [Show & Tell](https://github.com/orgs/OxideOrg/discussions/categories/projects-built-with-oxide) category and get feedback from the community.
 
 ### **🛠️ Contributing**
-Ready to contribute? Check out our [Contributing Guidelines](https://github.com/oxide-org/.github/blob/main/CONTRIBUTING.md) and start coding!
+Ready to contribute? Check out our [Contributing Guidelines](https://github.com/OxideOrg/.github/blob/main/CONTRIBUTING.md) and start coding!
 
 ---
 
 ## 🛡️ **Security & Code of Conduct**
 
-We take security seriously and aim to keep our tools safe for everyone. Please follow our [Security Policy](https://github.com/oxide-org/.github/blob/main/SECURITY.md) for reporting vulnerabilities. And, of course, treat everyone with respect by adhering to our [Code of Conduct](https://github.com/oxide-org/.github/blob/main/CODE_OF_CONDUCT.md).
+We take security seriously and aim to keep our tools safe for everyone. Please follow our [Security Policy](https://github.com/OxideOrg/.github/blob/main/SECURITY.md) for reporting vulnerabilities. And, of course, treat everyone with respect by adhering to our [Code of Conduct](https://github.com/OxideOrg/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ---
 
 ## 📣 **Get Involved**
 
 **Join the Community!**  
-- **💬 [Discord Server](https://discord.gg/your-discord-link)** - Connect with the community, join live discussions, and collaborate in real time!
-- **🐦 [Twitter](https://twitter.com/oxide-org)** - Follow us for updates and announcements.
-- **📚 [Blog](https://blog.oxide-org.dev)** - Read about the latest development updates, tutorials, and community spotlights.
+- **💬 [Discord Server](https://discord.gg/yYZTWsyxwW)** - Connect with the community, join live discussions, and collaborate in real time!
+- **🐦 [Twitter](https://x.com/oxide_org)** - Follow us for updates and announcements.
+- **📚 [Blog](https://dev.to/oxideorg)** - Read about the latest development updates, tutorials, and community spotlights.
 
 If you have any questions, feel free to reach out in [Discussions](https://github.com/orgs/oxide-org/discussions) or drop us a message on Discord!
 
