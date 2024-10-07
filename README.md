@@ -44,37 +44,24 @@ Find detailed guides, tutorials, and setup instructions for all our projects in 
 
 ---
 
-## 🛠️ **How to Get Started**
-
-1. **Clone & Explore:**  
-   Check out the repositories and clone any project you’re interested in. We love feedback, so feel free to share suggestions, report issues, or propose new features.
-
-2. **Join the Discussion:**  
-   Head over to our [Discussions](https://github.com/orgs/oxide-org/discussions) to introduce yourself, share ideas, and engage with the community.
-
-3. **Contribute:**  
-   Want to contribute to a project? Awesome! Check out our [Contributing Guidelines](https://github.com/oxide-org/.github/blob/main/CONTRIBUTING.md) to get started.
-
----
-
 ## 🔍 **Navigation**
 
 Here's a quick navigation guide for finding what you need:
 
 ### **Repositories Overview**
-Explore our [Repositories](https://github.com/oxide-org) to see all the open-source tools we’re building. Each project has detailed README files to help you get started.
+Explore our [Repositories](https://github.com/orgs/OxideOrg/repositories) to see all the open-source tools we’re building. Each project has detailed README files to help you get started.
 
 ### **📢 Announcements**
-Stay updated on the latest releases and community news by checking out the **Announcements** section in our [Discussions](https://github.com/orgs/oxide-org/discussions/categories/announcements).
+Stay updated on the latest releases and community news by checking out the **Announcements** section in our [Discussions](https://github.com/orgs/OxideOrg/discussions/2).
 
 ### **💡 Feature Requests & Ideas**
-Have a cool idea? Want to request a feature? Head over to our [Feature Requests & Ideas](https://github.com/orgs/oxide-org/discussions/categories/feature-requests-ideas) category to share your thoughts.
+Have a cool idea? Want to request a feature? Head over to our [Feature Requests & Ideas](https://github.com/orgs/OxideOrg/discussions/categories/feature-enhancements) category to share your thoughts.
 
 ### **🐞 Bug Reports**
-Found a bug? Help us squash it! Report issues in the [Bug Reports](https://github.com/orgs/oxide-org/discussions/categories/bug-reports) category.
+Found a bug? Help us squash it! Report issues in the [Bug Reports](https://github.com/orgs/OxideOrg/discussions/categories/minor-bugs) category.
 
 ### **🎉 Show & Tell**
-Built something amazing using our tools? Share it in the [Show & Tell](https://github.com/orgs/oxide-org/discussions/categories/show-and-tell) category and get feedback from the community.
+Built something amazing using our tools? Share it in the [Show & Tell](https://github.com/orgs/OxideOrg/discussions/categories/projects-built-with-oxide) category and get feedback from the community.
 
 ### **🛠️ Contributing**
 Ready to contribute? Check out our [Contributing Guidelines](https://github.com/oxide-org/.github/blob/main/CONTRIBUTING.md) and start coding!
