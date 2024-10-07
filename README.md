@@ -1,17 +1,11 @@
 # 🌟 Welcome to **Oxide**!
 
-**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From dot file management to powerful CLI tools, everything we create is free and open-source—built by developers, for developers. 🚀
+**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins to powerful CLI tools, everything we create is free and open-source - built by developers, for developers. 🚀
 
 ---
 
 ## 📚 **About Us**
 At Oxide, our goal is to bring innovative ideas to life and build tools that empower the developer community. We focus on creating experiences that make your work seamless, while contributing back to the open-source ecosystem. Our mission is to make developer life easier and more efficient by simplifying workflows and providing tools you’ll love to use.
-
----
-
-## 🎯 **Our Mission**
-"Developing for developers."  
-We’re here to transform ideas into reality and provide a space where developers can collaborate, learn, and build together.
 
 ---
 
@@ -31,7 +25,7 @@ Here's a snapshot of some of our active projects:
 - **🔧 Dotman**: Something helpful for Developers. (More details soon.)
 - **📄 Meta CLI**: Disclose after lunch of Dotman.
   
-Check out our [Repositories](https://github.com/oxide-org) to explore all our tools!
+Check out our [Repositories](https://github.com/orgs/OxideOrg/repositories) to explore all our tools!
 
 ---
 
