@@ -34,13 +34,13 @@ Check out our [Repositories](https://github.com/orgs/OxideOrg/repositories) to e
 We believe in fostering an active and inclusive community. Here’s where you can connect, collaborate, and contribute:
 
 ### 📢 **Discussions & Forums**
-- **[Oxide Discussions](https://github.com/orgs/oxide-org/discussions)**  
+- **[Oxide Discussions](https://github.com/orgs/OxideOrg/discussions)**  
   Join the conversation! Share ideas, ask questions, and get support from fellow developers.
 
-- **📜 Rules & Guidelines**: Ensure a safe and positive environment by following our [Community Rules](https://github.com/oxide-org/.github/blob/main/docs/rules.md).
+- **📜 Rules & Guidelines**: Ensure a safe and positive environment by following our [Community Rules](https://github.com/orgs/OxideOrg/discussions/14).
 
 ### 📚 **Documentation & Tutorials**
-Find detailed guides, tutorials, and setup instructions for all our projects in our [Documentation Repository](https://github.com/oxide-org/docs).
+Find detailed guides, tutorials, and setup instructions for all our projects in our Documentation Repository(coming soon!).
 
 ---
 
