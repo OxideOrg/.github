@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/OxideOrg/.github/blob/main/images/oxide_github_readme_banner.png"></p>
+<p align="center"><img src="../images/oxide_readme_banner.png"></p>
 
 <h1 align="center">Oxide Org.</h1>
 
