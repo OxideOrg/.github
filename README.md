@@ -1,7 +1,24 @@
 <p align="center"><img src="images/oxide_log_no_bg.png" width="15%"></img></p>
 
 <h1 align="center">Welcome to <b>Oxide Org.</b></h1>
-<!-- <h3 align="center"> Developing for developers.</h3> -->
+
+<p align="center">
+  <a href="https://x.com/oxide_org" target="_blank">
+    <img src="https://img.shields.io/badge/OxideOrg-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  
+  <a href="https://discord.gg/yYZTWsyxwW" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://dev.to/oxideorg" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/sponsors/fnabinash" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
+  </a>
+</p>
 
 **Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins to powerful CLI tools, everything we create is free and open-source - built by developers, for developers. 🚀
 
