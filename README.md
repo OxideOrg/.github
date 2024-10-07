@@ -1,6 +1,7 @@
 <p align="center"><img src="images/oxide_log_no_bg.png" width="15%"></img></p>
 
-# 🌟 Welcome to **Oxide**!
+<h1 align="center">Welcome to <b>Oxide Org.</b></h1>
+<!-- <h3 align="center"> Developing for developers.</h3> -->
 
 **Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins to powerful CLI tools, everything we create is free and open-source - built by developers, for developers. 🚀
 
