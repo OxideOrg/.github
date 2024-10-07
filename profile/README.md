@@ -34,6 +34,6 @@ Want to contribute to **Oxide** or have a great idea for a new tool?
 
 - Explore our [projects](https://github.com/orgs/OxideOrg/repositories)
 - Open an issue to suggest improvements or features
-- Join our discussions and collaborate
+- Join our [discussions](https://github.com/orgs/OxideOrg/discussions) and collaborate
 
 > ### **Together, let's build tools that make developers' lives easier! 💡**
