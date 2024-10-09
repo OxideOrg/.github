@@ -22,6 +22,8 @@
 
 **Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins and CLI tools to more advanced libraries and frameworks, everything we create is free and open-source - built for developers, by developers. 🚀
 
+> ### We build fast, reliable and easy-to-use tools for developers.
+
 ## **Roadmap** 🗺️
 |**No.**| **Projects**      | **Type** | **Description**                                        | **Stage**  |
 | ----- | ----------------- | -------- | ------------------------------------------------------ | ---------- |
