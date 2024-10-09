@@ -20,7 +20,7 @@
   </a>
 </p>
 
-**Oxide** is an open-source organization dedicated to building powerful, easy-to-use tools that help developers work smarter, faster, and with less effort. We focus on creating tools that enhance your coding experience, all made with Rust to ensure efficiency and performance.
+**Oxide** is a community-driven open-source organization dedicated to building developer tools that help you work smarter, faster, and more effectively. From simple plugins and CLI tools to more advanced libraries and frameworks, everything we create is free and open-source - built by developers, for developers. 🚀
 
 ## **Roadmap** 🗺️
 |**No.**| **Projects**      | **Type** | **Description**                                        | **Stage**  |
