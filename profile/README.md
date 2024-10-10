@@ -28,8 +28,6 @@
 |**No.**| **Projects**      | **Type** | **Description**                                        | **Stage**  |
 | ----- | ----------------- | -------- | ------------------------------------------------------ | ---------- |
 | 01    | Dotman            | Tool     | Something helpful for Developers. (More details soon.) | Planning   |
-| 02    | Meta CLI          | Tool     | Disclose after lunch of Dotman.                        | Idea       |
-
 
 ## **Get Involved** 🤝
 Want to contribute to **Oxide** or have a great idea for a new tool?
