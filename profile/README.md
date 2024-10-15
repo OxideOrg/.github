@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://x.com/oxide_org" target="_blank">
-    <img src="https://img.shields.io/badge/OxideOrg-%23121011.svg?style=for-the-badge&logo=X&logoColor=white">
+    <img src="https://img.shields.io/badge/OxideOrg-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 
   <a href="https://oxideorg.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </p>
 
